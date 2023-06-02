@@ -23,7 +23,7 @@ This solution will:
 
 ``` lua
 huaweicloud-solution-build-a-highly-available-RabbitMQ-cluster
-├── qbuild-a-highly-available-RabbitMQ-cluster.tf.json -- Resource orchestration template
+├── build-a-highly-available-RabbitMQ-cluster.tf.json -- Resource orchestration template
 ├── userdata
     ├── install_node01.sh  -- Script configuration file
     ├── install_node02.sh  -- Script configuration file
